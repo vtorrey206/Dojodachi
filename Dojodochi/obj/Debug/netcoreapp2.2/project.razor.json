@@ -1,0 +1,35 @@
+{
+  "FilePath": "c:\\Users\\CashAm\\Desktop\\codingdojo\\c#\\projects\\asp\\dojodachi\\Dojodochi\\Dojodochi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "Dojodochi",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\CashAm\\Desktop\\codingdojo\\c#\\projects\\asp\\dojodachi\\Dojodochi\\Views\\Dojo\\Index.cshtml",
+      "TargetPath": "Views\\Dojo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CashAm\\Desktop\\codingdojo\\c#\\projects\\asp\\dojodachi\\Dojodochi\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CashAm\\Desktop\\codingdojo\\c#\\projects\\asp\\dojodachi\\Dojodochi\\Views\\Dojo\\Result.cshtml",
+      "TargetPath": "Views\\Dojo\\Result.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

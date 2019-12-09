@@ -1,0 +1,11 @@
+.wrapper{
+    margin: auto;
+    border: dotted 20px #42425E;
+    height: 270px;
+    width: 300px;
+    padding-left: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="~/css/style.css"/>
+    <title>Lets Play!!</title>
+</head>
+<body>
+    @model Life
+    <div class="wrapper">
+        <div class="header">
+            <p>Fullness:@Model.fullness Happiness:@Model.happiness Meals:@Model.meals Energy:@Model.energy</p>
+            <div class="main">
+                <img src="~/images/5a97daa89fc609199d0fefd2.png" alt="Your Pet">
+                <p>@Model.comment</p>
+            </div>
+            <div class="interact">
+            <a href="/feed"><button>Feed</button></a>
+            <a href="/play"><button>Play</button></a>
+            <a href="/work"><button>Work</button></a>
+            <a href="/sleep"><button>Sleep</button></a>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
